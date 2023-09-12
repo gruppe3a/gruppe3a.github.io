@@ -5,3 +5,5 @@ Repository Noah Øfsti: https://github.com/noaho04/test (Github pages url: https
 Repository Ayub Omar: https://github.com/ayuubomer/ayuubomer.github.io (Github pages url: https://ayuubomer.github.io)
 
 Repository Benjamin Thorsen Papp https://github.com/benjaminpapp/Individuell (Github pages url: https://benjaminpapp.github.io/Individuell)
+
+Repository Terje Melting Sandvold https://github.com/terjems/IS-114-test (Github pages url: https://terjems.github.io/IS-114-test/)

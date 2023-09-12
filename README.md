@@ -2,4 +2,4 @@ Repository Ørjan V. Stueland: https://github.com/orjanvs/IS-114-test (Github pa
 
 Repository Noah Øfsti: https://github.com/noaho04/test (Github pages url: https://noaho04.github.io/test/)
 
-Repository Ayub Omar: https://github.com/ayuubomer/ayuubomer.github.io (Github pages url: ayuubomer.github.io)
+Repository Ayub Omar: https://github.com/ayuubomer/ayuubomer.github.io (Github pages url: https://ayuubomer.github.io)
